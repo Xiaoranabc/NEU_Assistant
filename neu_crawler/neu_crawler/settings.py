@@ -13,9 +13,6 @@ BOT_NAME = 'neu_crawler'
 SPIDER_MODULES = ['neu_crawler.spiders']
 NEWSPIDER_MODULE = 'neu_crawler.spiders'
 
-# AWS_ACCESS_KEY_ID = 'AKIASCEDTJKHUPPERQ5F'
-# AWS_SECRET_ACCESS_KEY = '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'
-# AWS_REGION = 'us-east-2'
 
 # FEEDS = {
 #     's3://neu-crawled-data/neu-test/%(name)s.json': {
